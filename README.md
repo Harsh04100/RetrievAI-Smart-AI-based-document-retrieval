@@ -52,4 +52,4 @@ We welcome contributions to Document RetrievAI! If you find any issues or have i
 
 - We would like to acknowledge the creators of the Hugging Face Transformers library for providing the GPT model used in this project.
 
-
+Happy Document Retrieval with RetrievAI!
